@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently Studying **Computer Science and data analysis**
 
-- 🌱 I’m currently learning **Docker ,Kubernetes ,Reactjs,laravel,javascript**
+- 🌱 I’m currently learning **Docker ,Kubernetes,Monitoring, IAC**
 
 - 👯 I’m looking to collaborate **in projects**
 
 - 👨‍💻 All of my projects are available here in github check them out.
 
-- 💬 Ask me about **Symfony,Docker, Kubernetes,**
+- 💬 Ask me about **Symfony,Docker, Kubernetes,EFK,kafka,python,golang**
 
 - 📫 How to reach me **syndalouil@gmail.com**
 
